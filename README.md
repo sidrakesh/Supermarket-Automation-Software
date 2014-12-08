@@ -1,8 +1,8 @@
-Sachin Kumar
+Supermarket Automation Software, built for Software Engineering course (Spring 2013)
 
-Siddharth Rakesh
+By Siddharth Rakesh and Sachin Kumar
 
-Supermarket Automation Software, built for Software Engineering course(Spring 2013)
+
 
 
 
